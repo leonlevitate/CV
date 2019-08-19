@@ -1,5 +1,8 @@
 ## Leon Linton
 
+
+[LINK TO NEW CV-RESUME](https://github.com/leonlevitate/CV-Resume)
+
 Junior Developer with a unique blend of technical and business experience. Former Consultancy Operations Manager for a Software company, with a passion for Technology.
 
 ## Skills
